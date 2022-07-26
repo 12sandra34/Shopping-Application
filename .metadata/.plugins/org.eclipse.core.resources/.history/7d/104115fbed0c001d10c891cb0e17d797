@@ -1,0 +1,5 @@
+package io.shoppingcart.shoppingcatalogservice.service;
+
+public class CatalogService {
+
+}

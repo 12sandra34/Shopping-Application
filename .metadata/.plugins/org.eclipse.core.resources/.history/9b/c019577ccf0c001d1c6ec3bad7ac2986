@@ -1,0 +1,5 @@
+package io.shoppingcart.shoppingprofileservice.controller;
+
+public class ProfileController {
+
+}

@@ -1,0 +1,5 @@
+package io.shoppingcart.shoppingpaymentservice.controller;
+
+public class PaymentController {
+
+}

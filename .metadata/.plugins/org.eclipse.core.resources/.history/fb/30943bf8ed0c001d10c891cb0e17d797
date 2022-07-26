@@ -1,0 +1,5 @@
+package io.shoppingcart.shoppingcatalogservice.repository;
+
+public interface CatalogRepository {
+
+}

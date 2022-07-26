@@ -1,0 +1,5 @@
+package io.shoppingcart.shoppingcartservice.controller;
+
+public class CartController {
+
+}

@@ -1,0 +1,13 @@
+package io.shoppingcart.shoppingprofileservice;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class ShoppingProfileServiceApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ShoppingProfileServiceApplication.class, args);
+	}
+
+}
