@@ -1,0 +1,14 @@
+package io.shoppingcart.shoppingcatalogservice.repository;
+
+import javax.management.loading.ClassLoaderRepository;
+
+import org.springframework.stereotype.Repository;
+
+
+
+
+	
+	
+	
+
+
